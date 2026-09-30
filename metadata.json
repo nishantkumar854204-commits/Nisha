@@ -1,0 +1,6 @@
+{
+  "name": "SK TV - Micro Dramas & Audio Stories",
+  "description": "SK TV - Premium Indian micro-dramas, blockbuster audio stories, romance, suspense, and thriller series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
